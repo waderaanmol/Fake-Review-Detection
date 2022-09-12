@@ -1,2 +1,2 @@
-# amazon-fake-product-review-detection-webapp
- 
+Fake Review Detection
+https://amazon-fake-review-demo.herokuapp.com
